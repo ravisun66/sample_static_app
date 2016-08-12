@@ -1,0 +1,28 @@
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+/* My custom css changes */
+
+body{
+	padding: 100px;
+}
+
+section {
+	overflow: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.center h4 {
+	margin-bottom: 20px;
+}
+
+.center h5 {
+	margin-bottom: 20px;
+}
+
+img {
+	display: none;
+}
